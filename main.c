@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by KHEIREDDINE & NABALSSI
+ * by JEBRRIL
  *
  * Return: Always 0
  */
